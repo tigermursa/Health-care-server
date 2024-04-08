@@ -76,4 +76,4 @@ Follow the coding standards and conventions established by the team. Ensure your
 
 #### Postman API Documentation: https://documenter.getpostman.com/view/26694209/2s9YynmjXH
 
-npx prisma migrate dev
+npx prisma migrate devSS
