@@ -74,6 +74,4 @@ Use the GitHub Issues tab to report bugs, suggest features, or discuss enhanceme
 Follow the coding standards and conventions established by the team. Ensure your code is well-documented.
 
 
-#### Postman API Documentation: https://documenter.getpostman.com/view/26694209/2s9YynmjXH
 
-npx prisma migrate dev
